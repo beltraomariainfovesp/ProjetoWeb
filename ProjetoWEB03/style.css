@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+header span{
+    background-color: #8b0118;
+    color: #8b0118;
+    font-size: 24px;
+    font-weight: 800;
+
+}
+
+nav a{
+    text-decoration: none;
+    color: #8b0118;
+}
+
+main section{
+    color: #8b0118;
+}
+
